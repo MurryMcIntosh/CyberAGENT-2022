@@ -1,7 +1,18 @@
 # Cryptography and Steganography
 
 ## Basic Windows command line tools
+Start the Windows command line with cmd.exe or powershell.exe
 
+```Batchfile
+cd Documents
+dir
+echo This is a new document> newfile.txt
+copy newfile.txt newfile2.txt
+cd ..
+move .\Documents\newfile2.txt .\newfile2moved.txt
+```
+
+## Basic steganography technique
 ```Batchfile
 md AGENT
 cd AGENT
