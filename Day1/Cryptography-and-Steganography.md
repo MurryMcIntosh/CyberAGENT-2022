@@ -26,3 +26,9 @@ notepad kitten.jpg
 
 ![Sekrit Skwerl pic](https://pbs.twimg.com/media/DzQF5B6XcAA1LFN?format=jpg&name=900x900)
 
+
+## Steghide
+
+[Steghide Website](http://steghide.sourceforge.net/)
+
+
